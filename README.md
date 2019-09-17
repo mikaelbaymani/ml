@@ -13,3 +13,4 @@
    - [Learning Linear Classifiers](#learning-linear-classifiers)
    - [Overfitting & Regularization in Logistic Regression](#overfitting-and-regularization-in-logistic-regression)
    - [Decision Trees](#decision-trees)
+   - [Preventing Overfitting in Decision Trees](#preventing-overfitting-in-decision-trees)
