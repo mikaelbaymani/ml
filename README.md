@@ -1,6 +1,6 @@
 # Machine Learning
 
-![Machine Learning Foundations: A Case Study Approach](certificates/8P5AJ9X48DZ4.png){ width=50% }
+<img src="certificates/8P5AJ9X48DZ4.png" width="40%" height="40%">
 
 ## Table of Content
 1. [Regression](#regression)
