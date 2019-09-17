@@ -17,3 +17,4 @@
    - [Handling Missing Data](#handling-missing-data)
    - [Boosting](#boosting)
    - [Precision-Recall](#precision-recall)
+   - [Scaling to Huge Datasets & Online Learning](#scaling-to-huge-datasets-and-online-learning)
