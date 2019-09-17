@@ -1,6 +1,6 @@
 # Machine Learning
 
-<img src="certificates/8P5AJ9X48DZ4.png" width="40%" height="40%">
+<img src="certificates/8P5AJ9X48DZ4.png" width="40%" height="40%"><img src="certificates/HZBM496W72YN.png" width="40%" height="40%">
 
 ## Table of Content
 1. [Regression](#regression)
