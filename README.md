@@ -11,3 +11,4 @@
 2. [Classification](#classification)
    - [Linear Classifiers & Logistic Regression](#linear-classifiers-and-logistic-regression)
    - [Learning Linear Classifiers](#learning-linear-classifiers)
+   - [Overfitting & Regularization in Logistic Regression](#overfitting-and-regularization-in-logistic-regression)
