@@ -10,3 +10,4 @@
    - [Nearest Neighbors & Kernel Regression](#nearest-neighbors-and-kernel-regression)
 2. [Classification](#classification)
    - [Linear Classifiers & Logistic Regression](#linear-classifiers-and-logistic-regression)
+   - [Learning Linear Classifiers](#learning-linear-classifiers)
