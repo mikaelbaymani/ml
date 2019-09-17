@@ -15,3 +15,4 @@
    - [Decision Trees](#decision-trees)
    - [Preventing Overfitting in Decision Trees](#preventing-overfitting-in-decision-trees)
    - [Handling Missing Data](#handling-missing-data)
+   - [Boosting](#boosting)
