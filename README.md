@@ -18,3 +18,5 @@
    - [Boosting](#boosting)
    - [Precision-Recall](#precision-recall)
    - [Scaling to Huge Datasets & Online Learning](#scaling-to-huge-datasets-and-online-learning)
+3. [Clustering & Retrieval](#clustering-and-retrieval)
+   - [Nearest Neighbor Search](#nearest-neighbor-search)
