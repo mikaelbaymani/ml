@@ -20,3 +20,7 @@
    - [Scaling to Huge Datasets & Online Learning](#scaling-to-huge-datasets-and-online-learning)
 3. [Clustering & Retrieval](#clustering-and-retrieval)
    - [Nearest Neighbor Search](#nearest-neighbor-search)
+     * [Introduction to nearest neighbor search and algorithms](#introduction-to-nearest-neighbor-search-and-algorithms)
+     * [The importance of data representations and distance metrics](#the-importance-of-data-representations-and-distance-metrics)
+     * [Scaling up k-NN search using KD-trees](#scaling-up-k-nn-search-using-kd-trees)
+     * [Locality sensitive hashing for approximate NN search](#locality-sensitive-hashing-for-approximate-nn-search)
