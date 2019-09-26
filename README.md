@@ -24,5 +24,6 @@
      * [The importance of data representations and distance metrics](#the-importance-of-data-representations-and-distance-metrics)
      * [Scaling up k-NN search using KD-trees](#scaling-up-k-nn-search-using-kd-trees)
      * [Locality sensitive hashing for approximate NN search](#locality-sensitive-hashing-for-approximate-nn-search)
-   - [Clustering with k-means](clustering-with-k-means)
+   - [Clustering with k-means](#clustering-with-k-means)
      * [Clustering via k-means](#clustering-via-k-means)
+     * [MapReduce for scaling k-means](#mapreduce-for-scaling-k-means)
