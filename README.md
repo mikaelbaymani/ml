@@ -27,3 +27,4 @@
    - [Clustering with k-means](#clustering-with-k-means)
      * [Clustering via k-means](#clustering-via-k-means)
      * [MapReduce for scaling k-means](#mapreduce-for-scaling-k-means)
+   - [Mixture Models](#mixture-models)
