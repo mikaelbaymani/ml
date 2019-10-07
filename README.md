@@ -28,3 +28,5 @@
      * [Clustering via k-means](#clustering-via-k-means)
      * [MapReduce for scaling k-means](#mapreduce-for-scaling-k-means)
    - [Mixture Models](#mixture-models)
+   - [Mixed Membership Modeling via Latent Dirichlet Allocation](#mixed-membership-modeling-via-latent-dirichlet-allocation)
+     * [Introduction to latent Dirichlet allocation](#introduction-to-latent-dirichlet-allocation)
