@@ -30,3 +30,4 @@
    - [Mixture Models](#mixture-models)
    - [Mixed Membership Modeling via Latent Dirichlet Allocation](#mixed-membership-modeling-via-latent-dirichlet-allocation)
      * [Introduction to latent Dirichlet allocation](#introduction-to-latent-dirichlet-allocation)
+     * [Bayesian inference via Gibbs sampling](#bayesian-inference-via-gibbs-sampling)
