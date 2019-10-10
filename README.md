@@ -31,3 +31,5 @@
    - [Mixed Membership Modeling via Latent Dirichlet Allocation](#mixed-membership-modeling-via-latent-dirichlet-allocation)
      * [Introduction to latent Dirichlet allocation](#introduction-to-latent-dirichlet-allocation)
      * [Bayesian inference via Gibbs sampling](#bayesian-inference-via-gibbs-sampling)
+     * [Collapsed Gibbs sampling for LDA](#collapsed-gibbs-sampling-for-lda)
+   - [Hierarchical Clustering](#hierarchical-clustering)
