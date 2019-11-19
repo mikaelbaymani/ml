@@ -33,3 +33,4 @@
      * [Bayesian inference via Gibbs sampling](#bayesian-inference-via-gibbs-sampling)
      * [Collapsed Gibbs sampling for LDA](#collapsed-gibbs-sampling-for-lda)
    - [Hierarchical Clustering](#hierarchical-clustering)
+4. [Computer Vision](#computer-vision)
